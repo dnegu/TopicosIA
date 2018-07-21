@@ -3,7 +3,7 @@
 ### Pertenece a: David Rolando Neyra Gutierréz
 
 La Informacion, asi como la descripcion del trabajo se encuentra en el siguiente enlace
-[Enlace](https://github.com/xxdavidxx11/TopicosIA/wiki).
+[Enlace](https://github.com/xxdavidxx11/TopicosIA/wiki/Informaci%C3%B3n).
 
 Tambien se detallará las caracteristicas de la maquina donde se implemento.
 [Enlace](https://www.researchgate.net/publication/321503983_Stock_price_prediction_using_LSTM_RNN_and_CNN-sliding_window_model)
